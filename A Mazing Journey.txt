@@ -1,7 +1,3 @@
-AMJ
-===
-
-A Mazing Journey
 Steer the ball into the hole!
 
 The ball is actually a traveling capsule, get from a to b before you run out of energy!
